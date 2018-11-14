@@ -20,12 +20,17 @@ Fun Fact: According to John Tromp from Online Encyclopedia of Integer Sequence, 
 -Shows the winner and end of game screen 
 
 # Requirements
--Dev-C++ with Allegro Package 
+- Dev-C++ with Allegro Package 
  - Packages used (some are not required to function)
    - AllegroFont, Allegro, AllegroGL, AllegroOGG, binutils, Allegro supplement, 
    - Allegro5, Dev-C++ Map file, gcc-core, gcc-g++, GNU Debugger, glut, GNU Make, 
    - MinGW runtime, OpenGLUT, Windows32 API
 
-
-
+#ScreenShots
+ - Layout
+![connect4 sample](https://user-images.githubusercontent.com/23088470/48498035-5269a000-e803-11e8-8ece-171d483c7c40.PNG)
+ - Game Won Example
+![connect4 sample game won](https://user-images.githubusercontent.com/23088470/48498036-5269a000-e803-11e8-8e09-f0da962c1def.PNG)
+ - Game Start Screen 
+![connect4 sample start screen](https://user-images.githubusercontent.com/23088470/48498037-5269a000-e803-11e8-8d40-cd790cdd1ca8.PNG)
 
