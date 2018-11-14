@@ -7,17 +7,16 @@ This can be done diagonally, vertically, or horizontally. The game is simple. Yo
 Fun Fact: According to John Tromp from Online Encyclopedia of Integer Sequence, there are 4,531,985,219,092 positions depending on how many of the circles are filled with checkers.   ( https://oeis.org/A212693 )
 
 # Main Functions 
-
-‘welCome()’ 
--Intoduction screen before the game starts showing title and instructions  
-‘setupBoard()’ 
--Draws the game board as well as the blank checkers 
-‘printChecks()’ 
--Draws the user color specified checkers on the board 
-‘checkWinner()’ 
--With four for loops, the program checks for any row of four of the same color 
-‘TheEnd()’ 
--Shows the winner and end of game screen 
+ - ‘welCome()’ 
+  - Intoduction screen before the game starts showing title and instructions  
+ - ‘setupBoard()’ 
+  - Draws the game board as well as the blank checkers 
+ - ‘printChecks()’ 
+  - Draws the user color specified checkers on the board 
+ - ‘checkWinner()’ 
+  - With four for loops, the program checks for any row of four of the same color 
+ - ‘TheEnd()’ 
+  - Shows the winner and end of game screen 
 
 # Requirements
 - Dev-C++ with Allegro Package 
