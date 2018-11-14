@@ -26,7 +26,7 @@ Fun Fact: According to John Tromp from Online Encyclopedia of Integer Sequence, 
    - Allegro5, Dev-C++ Map file, gcc-core, gcc-g++, GNU Debugger, glut, GNU Make, 
    - MinGW runtime, OpenGLUT, Windows32 API
 
-#ScreenShots
+# ScreenShots
  - Layout
 ![connect4 sample](https://user-images.githubusercontent.com/23088470/48498035-5269a000-e803-11e8-8ece-171d483c7c40.PNG)
  - Game Won Example
