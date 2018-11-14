@@ -8,15 +8,15 @@ Fun Fact: According to John Tromp from Online Encyclopedia of Integer Sequence, 
 
 # Main Functions 
  - ‘welCome()’ 
-  - Intoduction screen before the game starts showing title and instructions  
+   - Intoduction screen before the game starts showing title and instructions  
  - ‘setupBoard()’ 
-  - Draws the game board as well as the blank checkers 
+   - Draws the game board as well as the blank checkers 
  - ‘printChecks()’ 
-  - Draws the user color specified checkers on the board 
+   - Draws the user color specified checkers on the board 
  - ‘checkWinner()’ 
-  - With four for loops, the program checks for any row of four of the same color 
+   - With four for loops, the program checks for any row of four of the same color 
  - ‘TheEnd()’ 
-  - Shows the winner and end of game screen 
+   - Shows the winner and end of game screen 
 
 # Requirements
 - Dev-C++ with Allegro Package 
